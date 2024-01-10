@@ -1,4 +1,8 @@
 ### Hi there 👋
+🔭 I’m currently working on Games 
+😄 Pronouns: he/him
+⚡ Fun fact: ı am a gamer
+
 
 <!--
 **Lamadev-Code/Lamadev-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
